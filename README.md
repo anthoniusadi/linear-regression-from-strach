@@ -1,8 +1,8 @@
 # Linear Regression From Scratch
 ## Requirements
-..* Numpy
-..* Pandas
-..* Matplotlib
+...* Numpy
+...* Pandas
+...* Matplotlib
 
 ## How to use (simple)
 python3 main.py
